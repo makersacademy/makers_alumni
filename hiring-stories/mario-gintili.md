@@ -78,4 +78,4 @@ It's always good to keep yourself sharp by doing [coding challenges](). Knowledg
 
 #### Wrapping up.
 
-It's a good time in this economy to be a software developer.
+I'm happy with this career choice, wether I'll come back to finish an undergrad is something that I ask myself every now and then :)
