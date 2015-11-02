@@ -1,6 +1,6 @@
 # Mario Gintili
 
-![](https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xta1/t31.0-8/11893823_10152942574351207_1221240565202176872_o.jpg)
+<img src="https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xta1/t31.0-8/11893823_10152942574351207_1221240565202176872_o.jpg" width="300">
 
 ## Summary
 
